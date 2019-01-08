@@ -1,0 +1,13 @@
+# List of required packages (Dependencies)
+redis
+os
+telebot
+selenium
+bs4
+# If you need to specify a version
+
+
+# Or you need not a pip package, @'...' specifies git branch
+
+
+# Or you have .zip library
